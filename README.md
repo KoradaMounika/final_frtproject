@@ -11,7 +11,7 @@ This is a website on the impact of mobile phones on youth.
 
 # Azure Technologies used for project
 - Static Web apps
-- Health bot
+- Azure AI Bot Service
 
 ## Features and Functionalities 😃
 
