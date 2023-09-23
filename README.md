@@ -21,10 +21,8 @@ This is a website on the impact of mobile phones on youth.
 - Has collection of many web pages including Home,about,facts,angel,devil,Chatbot.
 - User is able to know about the consequences  due to excess use of mobile phones through the website.
 - Included the Deaddiction methods as an antidote for overusage of mobile phones and the Chat bot to give suggestions. 
-## Screenshots 📸
 ###  cover page -  
-
-![Coverpage](https://github.com/KoradaMounika/mobile_frt/assets/124560510/970d0f50-c8ba-4ce0-964e-96c890eed8f9)
+![cover_page](https://github.com/KoradaMounika/final_frtproject/assets/124560510/eb7a269a-61cb-4713-a6a1-0aed8713a3b4)
 
 
 ### Home page page -
