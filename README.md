@@ -1,4 +1,4 @@
-# final_frtproject
+![about](https://github.com/KoradaMounika/final_frtproject/assets/124560510/aaef75f8-4400-4d66-a347-911520531f64)# final_frtproject
 #  ✨ Impact of Mobile phones
 
 This is a website on the impact of mobile phones on youth.
@@ -20,34 +20,35 @@ This is a website on the impact of mobile phones on youth.
 - Has many graphical and visual innovative effects.
 - Has collection of many web pages including Home,about,facts,angel,devil,Chatbot.
 - User is able to know about the consequences  due to excess use of mobile phones through the website.
-- Included the Deaddiction methods as an antidote for overusage of mobile phones and the Chat bot to give suggestions. 
+- Included the Deaddiction methods as an antidote for overusage of mobile phones and the Chat bot to give suggestions.
 ###  cover page -  
 ![cover_page](https://github.com/KoradaMounika/final_frtproject/assets/124560510/eb7a269a-61cb-4713-a6a1-0aed8713a3b4)
 
 
 ### Home page page -
-![homepage](https://github.com/KoradaMounika/mobile_frt/assets/124560510/089b1b90-9cae-4bf8-9687-6737d7100fa6)
+![home](https://github.com/KoradaMounika/final_frtproject/assets/124560510/8065a40d-9763-4f3c-8330-1f677b68d77f)
+
 
 
 ### About page-
-
-![aboutpage](https://github.com/KoradaMounika/mobile_frt/assets/124560510/6fc276cc-256b-4444-8094-c298c0e1c7c1)
+![about](https://github.com/KoradaMounika/final_frtproject/assets/124560510/87bf532e-a3eb-46ac-a599-ff24ec2aea5e)
 
 
 ### facts page -
+![facts](https://github.com/KoradaMounika/final_frtproject/assets/124560510/e5fd4462-f99b-4a0e-b8c1-79960cc6154b)
 
-![factspagr4](https://github.com/KoradaMounika/mobile_frt/assets/124560510/cb30de5f-99be-473b-abca-081b543bbf7b)
 
 ### Chatbot  Page -
+![bot](https://github.com/KoradaMounika/final_frtproject/assets/124560510/79388c07-88b5-4586-a957-d4fca245991c)
 
-![chatbot](https://github.com/KoradaMounika/mobile_frt/assets/124560510/621c0617-fcda-4c9a-a28e-dd3d7203e009)
 
-### Angel Page -
+### Advantages Page -
+![advantages](https://github.com/KoradaMounika/final_frtproject/assets/124560510/faffe725-eb19-4730-ae34-9659153a5a88)
 
-![angelpage](https://github.com/KoradaMounika/mobile_frt/assets/124560510/d056479b-4fbf-41af-96fe-31ff9503c6c9)
 
-### Devil Page -
-![devilpage7](https://github.com/KoradaMounika/mobile_frt/assets/124560510/e25fe149-7276-410c-9727-ec8f3713f1d9)
+### Disadvantages Page -
+![disadvantages](https://github.com/KoradaMounika/final_frtproject/assets/124560510/9c101d45-47ca-4d43-b225-665a6ff10d8a)
+
 
 
 ## Tech Stack 💻
