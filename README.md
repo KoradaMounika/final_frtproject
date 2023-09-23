@@ -1,4 +1,3 @@
-![about](https://github.com/KoradaMounika/final_frtproject/assets/124560510/aaef75f8-4400-4d66-a347-911520531f64)# final_frtproject
 #  ✨ Impact of Mobile phones
 
 This is a website on the impact of mobile phones on youth.
