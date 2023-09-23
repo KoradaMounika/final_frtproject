@@ -7,7 +7,7 @@ This is a website on the impact of mobile phones on youth.
 
 **Project Link** -https://icy-tree-06ce0b700.3.azurestaticapps.net
 
-**Demo Video Link** - 
+**Demo Video Link** - https://youtu.be/3alZsPg9l1M?si=MWkrr5-i-kqtqBfY
 
 # Azure Technologies used for project
 - Static Web apps
